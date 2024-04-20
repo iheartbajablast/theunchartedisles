@@ -1,6 +1,6 @@
 
 # The Uncharted Isles - Licensing and Attributions
-#### (License also avabible at https://github.com/retroDOTdevv/theunchartedisles/LICENSE)
+#### (License also avabible at [retroDOTdevv/theunchartedisles/LICENSE on GitHub](https://github.com/retroDOTdevv/theunchartedisles/blob/main/LICENSE))
 
 ### Nomenclature Notes
 
