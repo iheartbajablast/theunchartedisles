@@ -1,5 +1,5 @@
 
-# The Uncharted Isles - Licensing and Attributions
+# The Uncharted Isles - Licensing and Attributions (License also avabible at gothub.com/retroDOTdevv/theunchartedisles/LICENSE)
 
 ### Nomenclature Notes
 
