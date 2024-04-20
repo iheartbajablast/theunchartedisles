@@ -21,3 +21,18 @@
 
  - "Signika" [ https://github.com/googlefonts/Signika, https://fonts.google.com/specimen/Signika] 
 Owned by: Anna Giedryś and is licensed under the "[Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)"
+
+ - "Fantasy UI Borders" [ https://kenney.nl/assets/fantasy-ui-borders ]
+Owned by: Kenny and is licensed under the "[Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)"
+
+ - "Input Prompts" [ https://kenney.nl/assets/input-prompts ]
+Owned by: Kenny and is licensed under the "[Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)"
+
+ - "Inpact Sounds" [ https://kenney.nl/assets/inpact-sounds ]
+Owned by: Kenny and is licensed under the "[Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)"
+
+ - "UI Audio" [ https://kenney.nl/assets/ui-audio ]
+Owned by: Kenny and is licensed under the "[Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)"
+
+ - "RPG Audio" [ https://kenney.nl/assets/rpg-audio ]
+Owned by: Kenny and is licensed under the "[Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)"
