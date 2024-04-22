@@ -4,7 +4,7 @@
 
 ### Nomenclature Notes
 
-"Us" refers to the "retro's playground" group owned by Eli (@retroDOTexe) [ https://www.roblox.com/groups/13546946 ]
+"Us" refers to the "retro's playground" group
 "Apache Attribution" refers to Apache License 2.0 [ https://www.apache.org/licenses/LICENSE-2.0 ]
 
 ### Statements
