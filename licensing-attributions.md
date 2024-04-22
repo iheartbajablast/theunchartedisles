@@ -36,7 +36,3 @@ Owned by: Kenny and is licensed under the "[Creative Commons CC0](https://creati
 
  - "RPG Audio" [ https://kenney.nl/assets/rpg-audio ]
 Owned by: Kenny and is licensed under the "[Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)"
-
-### Roblox Models Used
-
-[BetterChat V3](https://create.roblox.com/store/asset/9376009942/BetterChat-V3-Alpha) By @Jumpathy
